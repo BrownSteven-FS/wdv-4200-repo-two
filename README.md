@@ -12,6 +12,13 @@ npm i
 node app.js
 ```
 
+OR
+
+```shell
+npm i
+npm start
+```
+
 ### Contact
 Steven Brown
 smbrown1@student.fullsail.edu
